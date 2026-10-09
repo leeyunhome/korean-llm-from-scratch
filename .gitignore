@@ -1,0 +1,8 @@
+# Jekyll 로컬 빌드 산출물
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# 원본 데이터는 올리지 않는다 (그래프와 글만 공개)
+*.csv
+*.txt

@@ -1,0 +1,20 @@
+title: 한국어 LLM, 바닥부터
+description: 한국어 언어 모델을 바닥부터 만들며 얻은 결과를 시각화한 포트폴리오
+lang: ko-KR
+
+url: "https://leeyunhome.github.io"
+baseurl: "/korean-llm-from-scratch"
+
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/leeyunhome/korean-llm-from-scratch"
+
+footer_content: '<a href="https://www.honglab.ai">홍랩(HongLab)</a> 강의에서 배운 내용을 토대로 직접 구현·분석한 개인 학습 기록입니다. 데이터 출처는 각 페이지에 표기했습니다.'
