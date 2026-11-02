@@ -11,7 +11,7 @@ nav_order: 1
 |---|---|
 | [Part 1]({{ '/part1/' | relative_url }}) | 진행 중 |
 | Part 2 | 예정 |
-| Part 3 | 예정 |
+| [Part 3]({{ '/part3/' | relative_url }}) | 진행 중 |
 | Part 4 | 예정 |
 
 ---
